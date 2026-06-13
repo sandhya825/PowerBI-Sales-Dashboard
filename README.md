@@ -74,6 +74,5 @@ The dataset contains sales transaction information including:
 # 👤 Author
 
 Sandhya
-
-Final Year B.Tech (AI)
+ B.Tech CSE(AI)
 Aspiring Data Analyst
